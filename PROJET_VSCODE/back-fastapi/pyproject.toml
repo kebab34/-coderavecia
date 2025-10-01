@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "back-fastapi"
+version = "0.1.0"
+description = "FastAPI backend for the atelier project"
+authors = ["Nicolas Debeissat <nicolas.debeissat@mail-formateur.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.104.1"
+uvicorn = "^0.24.0"
+sqlalchemy = "^2.0.23"
+psycopg2-binary = "^2.9.9"
+alembic = "^1.12.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.3"
+black = "^23.11.0"
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
