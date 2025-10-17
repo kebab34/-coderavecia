@@ -524,7 +524,7 @@ function App() {
       </div>
 
       <h1 style={{ textAlign: 'center', marginBottom: '30px' }}>
-        Atelier IA Générative
+        Atelier Coder avec IA
       </h1>
 
       {/* Mode Jeu */}

@@ -1,6 +1,6 @@
-# Atelier IA Générative - Application Compteur
+# Atelier Coder avec IA - Application Compteur
 
-Application web fullstack moderne développée pour l'atelier IA générative avec un backend FastAPI, un frontend React/Vite et une base de données PostgreSQL.
+Application web fullstack moderne développée pour l'atelier Coder avec IA avec un backend FastAPI, un frontend React/Vite et une base de données PostgreSQL.
 
 ## Description
 
@@ -253,7 +253,7 @@ docker-compose exec db psql -U postgres -d atelier_db
 
 ## Auteur
 
-Projet développé dans le cadre de l'atelier IA générative à EPSI.
+Projet développé dans le cadre de l'atelier Coder avec l'IA à EPSI.
 
 ## Licence
 

@@ -1,6 +1,6 @@
 # Backend FastAPI
 
-Backend API pour l'atelier IA générative.
+Backend API pour l'atelier Coder avec IA.
 
 ## Installation
 
